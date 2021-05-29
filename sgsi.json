@@ -1,9 +1,9 @@
 {
-  "rom_url": "https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20210402154942/PCKM00_11_OTA_1220_all_gj0l3VLWSzn4.ozip",
+  "rom_url": "https://bigota.d.miui.com/V12.5.2.0.RJSCNXM/miui_GAUGUIN_V12.5.2.0.RJSCNXM_f7a1898218_11.0.zip",
   "rom_name": "update.zip",
   "pack_sgsi": "SGSI.7z",
   "make_type": "AB",
-  "rom_type": "coloros",
+  "rom_type": "miui",
   "light_fix": true,
   "bug_fix": true,
   "version": "11",
